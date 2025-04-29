@@ -91,6 +91,6 @@ SLI can work with external cameras, provided they are properly configured and su
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding SLI, please contact us at siddharthchandel2004@gmail.com.
+If you have any questions, suggestions, or feedback regarding SLI, please contact us at abhishekhchd@gmail.com.
 
 Thank you for your interest in our project! We hope it makes a positive impact in improving accessibility and communication for individuals with hearing impairments.
