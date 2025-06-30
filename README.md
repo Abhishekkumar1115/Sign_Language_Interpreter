@@ -1,3 +1,5 @@
+![app](https://github.com/user-attachments/assets/02ede970-a607-4abf-aa09-7cd4bc1e3923)
+
 # SLI (Sign Language Interpreter)
 
 SLI (Sign Language Interpreter) is an IT project aimed at developing a software application that can interpret sign language gestures and translate them into spoken or written language and vice-versa. This project utilizes computer vision and machine learning techniques to analyze and recognize sign language gestures, providing a means of communication for individuals who are deaf or hard of hearing.
